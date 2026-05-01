@@ -56,6 +56,9 @@ cp .env.example .env
 # Edit .env with your values:
 # MONGODB_URI=mongodb://localhost:27017/taskapi
 # JWT_SECRET=your_secret_here
+# PORT=5000
+# JWT_EXPIRE=7d
+# NODE_ENV=development
 ```
 
 ### 3. Start MongoDB locally
