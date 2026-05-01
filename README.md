@@ -44,7 +44,7 @@ A production-ready REST API built with Node.js, Express, MongoDB, and JWT authen
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/honnu-s/taskflow-api.git
 cd backend
 npm install
 ```
